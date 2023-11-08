@@ -48,3 +48,55 @@ button{
     padding-right: 5px;
     font-size: 16px;
 }
+
+.section2{
+    padding: 140px;
+    margin-top: 300px;
+    background-color: rgb(56, 54, 54);
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+}
+
+.info {
+    max-width: 200px;
+  }
+
+.card{
+    background-color: rgb(247, 97, 222);
+    padding: 70px;
+    border-radius: 15px;
+}
+
+.section3{
+    margin-top: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}   
+
+.section4{
+    padding: 110px;
+    margin-top: 300px;
+    background-color: rgb(56, 54, 54);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sucard{
+    background-color: rgb(247, 97, 222);
+    padding: 70px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
